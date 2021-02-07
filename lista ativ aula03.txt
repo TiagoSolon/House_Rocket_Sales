@@ -24,6 +24,8 @@ o maior preço.
  - Se o valor da coluna "bedrooms" for maior que 2 => house' 
 2. Faça um gráfico de barras que represente a soma dos preços pelo número 
 de quartos. 
+
+
 3. Faça um gráfico de linhas que represente a média dos preços pelo 
 ano construção dos imóveis. 
 4. Faça um gráfico de barras que represente a média dos preços pelo tipo
